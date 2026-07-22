@@ -8,8 +8,7 @@ The dashboard enables users to monitor EV adoption trends, compare Battery Elect
 ## Dashboard Preview
 **Executive Dashboard**
 
-The dashboard includes:
-
+**The dashboard includes:**
 Total Electric Vehicles KPI; 
 Average Electric Range KPI; 
 Total Battery Electric Vehicles (BEV); 
