@@ -6,7 +6,7 @@ The Electric Vehicle Population Analytics Dashboard is an interactive Tableau pr
 The dashboard enables users to monitor EV adoption trends, compare Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), explore geographic distribution, and identify the leading vehicle manufacturers and models. Interactive filters allow users to analyze the data by model year, EV type, state, and Top N rankings.
 
 ## Dashboard Preview
-# Executive Dashboard
+**Executive Dashboard**
 
 The dashboard includes:
 
